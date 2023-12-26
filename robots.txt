@@ -37,3 +37,5 @@ Allow: /
 
 User-agent: GPTBot
 Allow: /
+
+Sitemap: https://harrykauhaad.pages.dev/sitemap.xml
